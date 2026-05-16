@@ -1,0 +1,21 @@
+# Added by Cargo
+/target
+
+# /target/debug/
+# /target/release/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+
+# Environment variables
+.env
